@@ -38,11 +38,11 @@ social:
   email: seppe@siliconminds.be # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/siliconminds # change to your twitter homepage
+    - https://siliconminds.be/ # change to your twitter homepage
     - https://github.com/sevbesau # change to your github homepage
-    # Uncomment below to add more social links
+    - https://www.linkedin.com/in/seppe-van-besauw
+    - https://twitter.com/siliconminds_be # change to your twitter homepage
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
@@ -50,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-4X6RBTE62K
 
 # Prefer color scheme setting.
 #
