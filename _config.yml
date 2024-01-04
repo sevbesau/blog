@@ -16,7 +16,7 @@ timezone: Europe/Brussels
 
 title: Siliconminds # the main title
 
-tagline: Siliconminds blog # it will display as the sub-title
+tagline: The siliconminds blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   The Siliconminds blog.
@@ -29,12 +29,12 @@ github:
   username: sevbesau # change to your github username
 
 twitter:
-  username: siliconminds # change to your twitter username
+  username: siliconminds_be # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Seppe Van Besauw
+  name: Siliconminds
   email: seppe@siliconminds.be # change to your email address
   links:
     # The first element serves as the copyright owner's link
