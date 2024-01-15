@@ -6,7 +6,7 @@ tags: [welcome]
 author: sevbesau
 ---
 
-# Hello World!
+# Hello World And Welcome!
 
 Welcome to my corner of the internet! I'm thrilled to kick off this journey with you and share my insights, experiences, and knowledge as a freelance web developer. Whether you're a seasoned developer, a curious enthusiast, or someone just starting in the vast world of web development, I hope you find value and inspiration in the content I'll be creating.
 
